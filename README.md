@@ -10,7 +10,6 @@ Backend Developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [fuzzy245.in@gmail.com](mailto:fuzzy245.in@gmail.com)
-* 🚀  I'm currently working on [PostiT](http://postee.onrender.com/)
 * 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on Interesting projects and meeting new people.
 * ⚡  Asides tech, I love food, football, music and reading.
