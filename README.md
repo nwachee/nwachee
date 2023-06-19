@@ -1,12 +1,8 @@
-Hi 👋 My name is Nwachinemere Ibeagi
+Hey 👋 My name is Nwachinemere Ibeagi
 ====================================
 
 Backend Developer
 -----------------
-
-- I have a strong foundation in programming languages such as JavaScript, Node.js, and Express. With my experience working on various projects, I have gained knowledge of backend development concepts such as RESTful APIs, database management, and server-side scripting. 
-- I am familiar with popular databases such as MongoDB, MySQL, and PostgreSQL. I possess good problem-solving skills and can troubleshoot issues related to code and server.
- - My ability to work in a team environment and collaborate with others has proven to be an asset in my previous internships. I am eager to continue to learn and grow as a developer while contributing to meaningful projects.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [nwachinemereibeagi@gmail.com](mailto:nwachinemereibeagi@gmail.com)
