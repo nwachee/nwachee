@@ -1,12 +1,7 @@
-Hey 👋 My name is Nwachinemere Ibeagi
+Software Developer
 ====================================
 
-Backend Developer
------------------
-
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [nwachinemereibeagi@gmail.com](mailto:nwachinemereibeagi@gmail.com)
-* 🧠  I'm learning Typescript
+* ✉️ [nwachinemereibeagi@gmail.com](mailto:nwachinemereibeagi@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects and meeting new people.
 * ⚡  Asides tech, I love food, football, music and reading.
 
