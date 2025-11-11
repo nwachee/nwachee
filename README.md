@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Software & Smart Contract Developer
+# Software & Smart Contract Developer
 
 **Hey, I'm Nwachee** — a full-stack developer diving deep into the world of smart contracts and Web3!
 
@@ -10,21 +10,24 @@
 
 ## 🛠️ Skills
 
-**Smart Contract & Web3**
-- Solidity · Foundry · Hardhat · Chainlink · Ethers.js · Web3.js  
-- VRF · Automation · Gas Optimization · Smart Contract Security  
+**Blockchain**  
+Solidity · Foundry · Hardhat · Chainlink · Viem · Ethers.js  
+Gas Optimization · Smart Contract Security · DeFi
 
-**Full-Stack Development**
-- JavaScript · TypeScript · Node.js · Express.js  
-- HTML5 · CSS3 · React.js  
-- MongoDB · MySQL  
+**Backend**  
+NestJS · Node.js · TypeScript · MongoDB · PostgreSQL  
+RESTful APIs · OAuth 2.0 · JWT · WebSockets
+
+**Frontend**  
+Next.js · React · TypeScript · TailwindCSS  
+Server-Side Rendering · Web3 Integration 
 
 **Tools & DevOps**
 - Git · GitHub · VS Code · Linux/WSL · Docker · Postman  
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
 <a href="https://github.com/nwachee" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" /></a>
